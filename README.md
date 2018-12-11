@@ -1,20 +1,8 @@
-# Data-Science-for-Good
+## Data-Science-for-Good: How to measure juestic?
 
-#Read Shapefile Data
-class readShapefile:
+The Center for Policing Equity (CPE) host a Kaggle compettition for community trainers working together to build more fair and just systems. The main problems of this competition consist of two. How do you measure justice? And how do you solve the problem of racism in policing? In this project, I will discover factors that drive racial disparities in policing by analyzing census and police department deployment data.
 
-#read census file about sex poverty race age etc. from ACS
-class readCensus:
+#Dataset
 
-#Read CSV file which contains police force incident
-class readCSV:
+To begin with, lets look into the datasets that we are provided.
 
-#plot different map of different area
-class plotShapefile:
-
-#pinpoint incident location on the map
-class plotIncident:
-
-#plot different race distribution accroding to the shapes of colors on the map
-#use same method on sex/age/poverty ...
-class plotCensus:
